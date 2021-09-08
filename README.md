@@ -10,6 +10,7 @@ Finalmente, se guarda un documento en pdf en el escritorio con los datos del ava
 - El proyecto fue realizado en el 2017, por lo que la metodología usada, así como los datos de la zonificación catastral y de las viviendas utilizadas para el método de mercado no coincidirán con la realidad actual.
   - Recomendación: Una actualización automatizada solucionaría esto.
 - Se colocó espacio para un tercer método de valuación, el **método de capitalización de rentas**, pero este no se programó.
+- El nombre de **AVINI** es meramente ficticio con el fin de facilitar la presentación del trabajo y cualquier coincidencia se considera fe de erratas.
 
 ## Autor
 Brando Alberto Toribio García 
